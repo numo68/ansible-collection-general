@@ -1,0 +1,7 @@
+.envrc
+.venv/
+.vscode/
+__pycache__/
+
+/tests/output/
+/numo68-general-*.tar.gz
