@@ -10,7 +10,7 @@ DOCUMENTATION:
       that can be consumed by the P(numo68.general.json_patch_recipe) to change the input
       to the argument.
   requirements:
-    - jsonpatch
+    - jsonpatch (on the controller)
   version_added: "1.0.0"
   options:
     _input:

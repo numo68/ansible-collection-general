@@ -10,7 +10,7 @@ DOCUMENTATION:
     - If the operation is a test, the filter returns an ummodified object if the test
       succeeded and a None value otherwise.
   requirements:
-    - jsonpatch
+    - jsonpatch (on the controller)
   version_added: "1.0.0"
   options:
     _input:

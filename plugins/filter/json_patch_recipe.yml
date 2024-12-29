@@ -10,7 +10,7 @@ DOCUMENTATION:
     - If there is a test operation in the list, the filter continues if the test
       succeeded and returns a None value otherwise.
   requirements:
-    - jsonpatch
+    - jsonpatch (on the controller)
   version_added: "1.0.0"
   options:
     _input:
